@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">code changed by Omkar Bolake on 21 Jun 2023</h1>
+<h1 align="center">code updated by Omkar Bolake on 21 Jun 2023</h1>
 <h1 align="center">Welcome to Mithun Technologies. Marathahalli,Bengaluru,Karnataka,India </h1>
 <h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
