@@ -7,7 +7,6 @@
 <title>MithunTechnologies- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
-</head>
 
 <body>
 <h1 align="center">code changed by Omkar Bolake on 21 Jun 2023</h1>
